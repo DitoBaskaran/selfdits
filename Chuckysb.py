@@ -12,7 +12,7 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 nadya = LINETCR.LINE()
 #nadya.login(qr=True)
-nadya.login(token='EpS0tmC0ZTDhKOGiKDmb.fpzoe5O4f6/QVIFsn6/ZAW.l+ZRTs/GX3nkrHE/Y77Huo1aF65/TOARxV8ppihfEOQ=')
+nadya.login(token='EE67cmgcNIz9FRNFIdhe.xurKqWTpBKbqKmTJW09hhG.A40jOHCAjWm/o3bBZlWaB6lbjiwnQFy0nFVZEza0lAY=')
 nadya.loginResult()
 print "Nadya-Login Success\n\n=====[Sukses Login]====="
 
@@ -147,7 +147,7 @@ groupMessage ="""
 ║    〽️ line.me/ti/p/~nad_nad. 〽️
 ╚═════════════════════════
 """
-tjia="u14f64e139a3817afaabe27d237afb36b"
+tjia="u5d4464430b4f6e405090cb63c34f471e"
 
 setMessage ="""
 ╔═════════════════════════
@@ -253,8 +253,8 @@ helpMessage ="""
 KAC=[nadya]
 mid = nadya.getProfile().mid
 Bots=[mid]
-Creator=["u14f64e139a3817afaabe27d237afb36b"]
-admin=["u14f64e139a3817afaabe27d237afb36b"]
+Creator=["u5d4464430b4f6e405090cb63c34f471e"]
+admin=["u5d4464430b4f6e405090cb63c34f471e"]
 
 contact = nadya.getProfile()
 backup1 = nadya.getProfile()
